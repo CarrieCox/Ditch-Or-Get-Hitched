@@ -17,3 +17,4 @@ States with a young median age of first marriage for women tend to have:
 - A central location in the U.S. 
 - High rates of poverty 
 - A political affiliation closest to Republican 
+- * No conclusions could be made based on high school graduation rate *
